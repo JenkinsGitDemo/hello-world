@@ -1,2 +1,3 @@
 # hello-world
-Hello-world git integration demo for jenkins
+Hello-world git integration demo for jenkin
+This file is just used to understand configuration changes.
